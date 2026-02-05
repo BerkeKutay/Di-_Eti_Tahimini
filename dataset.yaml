@@ -1,0 +1,15 @@
+path: C:/Users/KutayTaha/Desktop/diş_eti
+
+train: Dataset/training/images
+val: Dataset/validation/images
+test: Dataset/test/images
+
+nc: 7
+names:
+  0: saglikli
+  1: hafif_gingivitis
+  2: ileri_gingivitis
+  3: periodontitis
+  4: plak
+  5: tartar
+  6: kanama
